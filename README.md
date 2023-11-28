@@ -1,7 +1,7 @@
 # MiniMarket
 
 <h3>Overview</h3>
-<p>Esse é um simples simulador de varejo virtual. Com ele é possível escolher os produtos que quiser comprar e calcular o valor total a ser a pago.</p>
+<p>Esse é um simples simulador de varejo virtual. Nele é possível escolher os produtos que quiser comprar e calcular o valor total a ser a pago.</p>
 
 <h3>Características</h3>
 <ul>
