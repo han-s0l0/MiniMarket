@@ -30,13 +30,13 @@ public class Mercadinho {
 		JLabel tomatePrice = new JLabel("R$ 3.50");
 		
 		JLabel qtd = new JLabel("Quantidade (kg)");
-		JTextField bttKg = new JTextField("0");
-		JTextField cnrKg = new JTextField("0");
-		JTextField cblKg = new JTextField("0");
-		JTextField btrbKg = new JTextField("0");
-		JTextField ppnKg = new JTextField("0");
-		JTextField pmtKg = new JTextField("0");
-		JTextField tmtKg = new JTextField("0");
+		JTextField bttKg = new JTextField("1");
+		JTextField cnrKg = new JTextField("1");
+		JTextField cblKg = new JTextField("1");
+		JTextField btrbKg = new JTextField("1");
+		JTextField ppnKg = new JTextField("1");
+		JTextField pmtKg = new JTextField("1");
+		JTextField tmtKg = new JTextField("1");
 		
 		JButton botao = new JButton("Comprar");
 		JLabel total = new JLabel();
